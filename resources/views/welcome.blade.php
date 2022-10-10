@@ -8,7 +8,7 @@
     <!-- PWA  -->
 <meta name="theme-color" content="#6777ef"/>
 <link rel="apple-touch-icon" href="{{ asset('logo.PNG') }}">
-<link rel="manifest" href="'/manifest.json">
+<link rel="manifest" href="'{{ '/manifest.json' }}">
 
     <!-- CSS DO BOOTSTRAP-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
