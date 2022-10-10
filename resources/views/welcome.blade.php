@@ -211,7 +211,7 @@
         <small>IronWorks Copyright © 2077 </small>
     </footer>
 
-    <script src="{{ asset('/sw.js') }}"></script>
+    <script src="/sw.js"></script>
 <script>
     if (!navigator.serviceWorker.controller) {
         navigator.serviceWorker.register("/sw.js").then(function (reg) {
