@@ -29,6 +29,8 @@
 
     <!-- PWA -->
     <title>IronWorks</title>
+
+    @livewireStyles
 </head>
 
 <body>
@@ -593,6 +595,7 @@ footer {
 
 /* AREA DE TESTES */
 </style>
+@livewireScripts
 </body>
 <!-- ATRIBUIÇÕES DE IMAGEM -->
 <!--                       -->
